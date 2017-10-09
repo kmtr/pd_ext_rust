@@ -1,0 +1,12 @@
+[package]
+name = "helloworld"
+version = "0.1.0"
+authors = ["kmtr <kmtr@outlook.com>"]
+
+[dependencies]
+pd_sys = { path = "../pd_sys" }
+
+[lib]
+name = "helloworld"
+crate-type=["staticlib"]
+path = "src/lib.rs"

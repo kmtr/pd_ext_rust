@@ -1,0 +1,11 @@
+[package]
+name = "pd_sys"
+version = "0.0.1"
+authors = ["kmtr <kmtr@outlook.com>"]
+
+[lib]
+name = "pd_sys"
+path = "lib.rs"
+
+[build-dependencies]
+bindgen = "0.30.0"

@@ -1,0 +1,6 @@
+*.pd_darwin
+*.o
+*.a
+target/
+**/*.rs.bk
+Cargo.lock
