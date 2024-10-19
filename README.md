@@ -1,5 +1,11 @@
 # Pure Data externals written in Rust
 
+# Read first here
+
+`libpd-rs` is more actively maintained than this repository.
+Look at there first.
+https://github.com/alisomay/libpd-rs
+
 # Download sources
 
 ```
